@@ -1,0 +1,6 @@
+{
+  "name": "Simple CRM",
+  "description": "Professional CRM system for managing customer relationships, sales processes, and business workflows",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
